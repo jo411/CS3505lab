@@ -2,3 +2,4 @@ This is a file.
 This is my comment (huy).
 Merge conflict now babyyyyyyyyy.
 not anymore.
+From new branch
