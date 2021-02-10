@@ -1,1 +1,7 @@
-This is the first line of a new file.
+#include <iostream>
+
+int main(int argc, char** argv)
+{
+  std::cout << "Hello world!" << std::endl;
+  return 0;
+}
