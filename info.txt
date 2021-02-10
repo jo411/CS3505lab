@@ -1,6 +1,11 @@
 #include <iostream>
 #include <string>
 
+int return_a_number()
+{
+  return 42;
+}
+
 std::string return_a_string()
 {
   return "Hello there";
