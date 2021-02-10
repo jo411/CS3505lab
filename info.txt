@@ -1,1 +1,14 @@
 This is the first line of a new file.
+
+
+
+
+int foo()
+{
+    return -1;
+}
+
+string bar()
+{
+   return "Breaking everything";
+}
