@@ -6,11 +6,6 @@ int main(int argc, char** argv)
   return 0;
 }
 
-This is the first line of a new file.
-
-
-
-
 int foo()
 {
     return -1;
