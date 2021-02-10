@@ -6,7 +6,8 @@ std::string return_a_string()
   return "Hello there";
 }
 
-int main(int argc, char** argb)
+int main(int argc, char** argv)
 {
+  std::cout << "Hello world!" << std::endl;
   return 0;
 }
